@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mouse crazy left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				5
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mouse crazy up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mouse crazy right"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mouse crazy down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Risitas",
+			"indices": [],
+			"name": "mouse crazy laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mouse crazy idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mouse2_asset",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "SM_crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

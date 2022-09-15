@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BBFY IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BBFY DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BBFY LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BBFY RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BBFY UP0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/old bf asset",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "old_bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		145,
+		145,
+		145
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
