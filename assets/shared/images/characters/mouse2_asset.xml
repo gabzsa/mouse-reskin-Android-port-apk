@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mouse2_asset.png">
+	
+	
+	<SubTexture height="401" name="mouse crazy down0000" width="441" x="0" y="0" />
+	<SubTexture height="401" name="mouse crazy down0001" width="441" x="441" y="0" />
+	<SubTexture height="401" name="mouse crazy down0002" width="441" x="882" y="0" />
+	<SubTexture height="401" name="mouse crazy down0003" width="441" x="1323" y="0" />
+	<SubTexture height="401" name="mouse crazy down0004" width="441" x="1764" y="0" />
+	<SubTexture height="401" name="mouse crazy down0005" width="441" x="2205" y="0" />
+	<SubTexture height="401" name="mouse crazy idle0000" width="441" x="2646" y="0" />
+	<SubTexture height="401" name="mouse crazy idle0001" width="441" x="3087" y="0" />
+	<SubTexture height="401" name="mouse crazy idle0002" width="441" x="3528" y="0" />
+	<SubTexture height="401" name="mouse crazy idle0003" width="441" x="0" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0004" width="441" x="441" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0005" width="441" x="882" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0006" width="441" x="1323" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0007" width="441" x="1764" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0008" width="441" x="2205" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0009" width="441" x="2646" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0010" width="441" x="3087" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0011" width="441" x="2205" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0012" width="441" x="2646" y="401" />
+	<SubTexture height="401" name="mouse crazy idle0013" width="441" x="3087" y="401" />
+	<SubTexture height="401" name="mouse crazy laugh0000" width="441" x="3528" y="401" />
+	<SubTexture height="401" name="mouse crazy laugh0001" width="441" x="0" y="802" />
+	<SubTexture height="401" name="mouse crazy laugh0002" width="441" x="441" y="802" />
+	<SubTexture height="401" name="mouse crazy laugh0003" width="441" x="882" y="802" />
+	<SubTexture height="401" name="mouse crazy laugh0004" width="441" x="1323" y="802" />
+	<SubTexture height="401" name="mouse crazy laugh0005" width="441" x="1764" y="802" />
+	<SubTexture height="401" name="mouse crazy left0000" width="441" x="2205" y="802" />
+	<SubTexture height="401" name="mouse crazy left0001" width="441" x="2646" y="802" />
+	<SubTexture height="401" name="mouse crazy left0002" width="441" x="3087" y="802" />
+	<SubTexture height="401" name="mouse crazy left0003" width="441" x="3528" y="802" />
+	<SubTexture height="401" name="mouse crazy left0004" width="441" x="0" y="1203" />
+	<SubTexture height="401" name="mouse crazy left0005" width="441" x="441" y="1203" />
+	<SubTexture height="401" name="mouse crazy right0000" width="441" x="882" y="1203" />
+	<SubTexture height="401" name="mouse crazy right0001" width="441" x="1323" y="1203" />
+	<SubTexture height="401" name="mouse crazy right0002" width="441" x="1764" y="1203" />
+	<SubTexture height="401" name="mouse crazy right0003" width="441" x="2205" y="1203" />
+	<SubTexture height="401" name="mouse crazy right0004" width="441" x="2646" y="1203" />
+	<SubTexture height="401" name="mouse crazy right0005" width="441" x="3087" y="1203" />
+	<SubTexture height="401" name="mouse crazy up0000" width="441" x="3528" y="1203" />
+	<SubTexture height="401" name="mouse crazy up0001" width="441" x="0" y="1604" />
+	<SubTexture height="401" name="mouse crazy up0002" width="441" x="441" y="1604" />
+	<SubTexture height="401" name="mouse crazy up0003" width="441" x="882" y="1604" />
+	<SubTexture height="401" name="mouse crazy up0004" width="441" x="1323" y="1604" />
+	<SubTexture height="401" name="mouse crazy up0005" width="441" x="1764" y="1604" />
+</TextureAtlas>

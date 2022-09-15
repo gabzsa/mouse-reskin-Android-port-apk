@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="old bf asset.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BBFY DOWN0000" x="0" y="0" width="374" height="351" frameX="-1" frameY="-6" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBFY DOWN0001" x="0" y="0" width="374" height="351" frameX="-1" frameY="-6" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBFY DOWN0002" x="374" y="0" width="373" height="357" frameX="0" frameY="0" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBFY DOWN0003" x="374" y="0" width="373" height="357" frameX="0" frameY="0" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBF DOWN miss0000" x="747" y="0" width="374" height="351" frameX="-1" frameY="-6" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBF DOWN miss0001" x="747" y="0" width="374" height="351" frameX="-1" frameY="-6" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBF DOWN miss0002" x="1121" y="0" width="373" height="357" frameX="0" frameY="0" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBF DOWN miss0003" x="1121" y="0" width="373" height="357" frameX="0" frameY="0" frameWidth="375" frameHeight="357"/>
+	<SubTexture name="BBF HEY0000" x="1494" y="0" width="423" height="410" frameX="0" frameY="0" frameWidth="423" frameHeight="412"/>
+	<SubTexture name="BBF HEY0001" x="1494" y="0" width="423" height="410" frameX="0" frameY="0" frameWidth="423" frameHeight="412"/>
+	<SubTexture name="BBF HEY0002" x="1917" y="0" width="422" height="405" frameX="0" frameY="-7" frameWidth="423" frameHeight="412"/>
+	<SubTexture name="BBF HEY0003" x="1917" y="0" width="422" height="405" frameX="0" frameY="-7" frameWidth="423" frameHeight="412"/>
+	<SubTexture name="BBF HEY0004" x="2339" y="0" width="423" height="406" frameX="0" frameY="-6" frameWidth="423" frameHeight="412"/>
+	<SubTexture name="BBF HEY0005" x="2339" y="0" width="423" height="406" frameX="0" frameY="-6" frameWidth="423" frameHeight="412"/>
+	<SubTexture name="BBFY IDLE0000" x="2762" y="0" width="409" height="386" frameX="-1" frameY="-21" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0001" x="2762" y="0" width="409" height="386" frameX="-1" frameY="-21" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0002" x="3171" y="0" width="411" height="388" frameX="0" frameY="-19" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0003" x="3171" y="0" width="411" height="388" frameX="0" frameY="-19" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0004" x="3582" y="0" width="410" height="393" frameX="-3" frameY="-14" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0005" x="3582" y="0" width="410" height="393" frameX="-3" frameY="-14" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0006" x="0" y="410" width="417" height="406" frameX="-1" frameY="-1" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0007" x="0" y="410" width="417" height="406" frameX="-1" frameY="-1" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0008" x="417" y="410" width="416" height="407" frameX="-2" frameY="0" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0009" x="417" y="410" width="416" height="407" frameX="-2" frameY="0" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0010" x="417" y="410" width="416" height="407" frameX="-2" frameY="0" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0011" x="417" y="410" width="416" height="407" frameX="-2" frameY="0" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY IDLE0012" x="417" y="410" width="416" height="407" frameX="-2" frameY="0" frameWidth="418" frameHeight="407"/>
+	<SubTexture name="BBFY LEFT0000" x="833" y="410" width="383" height="398" frameX="0" frameY="0" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBFY LEFT0001" x="833" y="410" width="383" height="398" frameX="0" frameY="0" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBFY LEFT0002" x="1216" y="410" width="379" height="397" frameX="-11" frameY="-1" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBFY LEFT0003" x="1216" y="410" width="379" height="397" frameX="-11" frameY="-1" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBF LEFT miss0000" x="1595" y="410" width="385" height="398" frameX="0" frameY="0" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBF LEFT miss0001" x="1595" y="410" width="385" height="398" frameX="0" frameY="0" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBF LEFT miss0002" x="1980" y="410" width="379" height="397" frameX="-11" frameY="-1" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBF LEFT miss0003" x="1980" y="410" width="379" height="397" frameX="-11" frameY="-1" frameWidth="390" frameHeight="398"/>
+	<SubTexture name="BBFY RIGHT0000" x="2359" y="410" width="407" height="399" frameX="-1" frameY="-2" frameWidth="408" frameHeight="401"/>
+	<SubTexture name="BBFY RIGHT0001" x="2359" y="410" width="407" height="399" frameX="-1" frameY="-2" frameWidth="408" frameHeight="401"/>
+	<SubTexture name="BBFY RIGHT0003" x="2766" y="410" width="408" height="401"/>
+	<SubTexture name="BBF RIGHT miss0000" x="3174" y="410" width="407" height="399" frameX="-1" frameY="-2" frameWidth="408" frameHeight="401"/>
+	<SubTexture name="BBF RIGHT miss0001" x="3174" y="410" width="407" height="399" frameX="-1" frameY="-2" frameWidth="408" frameHeight="401"/>
+	<SubTexture name="BBF RIGHT miss0002" x="3581" y="410" width="408" height="401"/>
+	<SubTexture name="BBF RIGHT miss0003" x="3581" y="410" width="408" height="401"/>
+	<SubTexture name="BBFY UP0000" x="0" y="817" width="386" height="422" frameX="-5" frameY="0" frameWidth="392" frameHeight="422"/>
+	<SubTexture name="BBFY UP0001" x="0" y="817" width="386" height="422" frameX="-5" frameY="0" frameWidth="392" frameHeight="422"/>
+	<SubTexture name="BBFY UP0002" x="386" y="817" width="392" height="416" frameX="0" frameY="-6" frameWidth="392" frameHeight="422"/>
+	<SubTexture name="BBFY UP0003" x="386" y="817" width="392" height="416" frameX="0" frameY="-6" frameWidth="392" frameHeight="422"/>
+	<SubTexture name="BBF UP miss0000" x="778" y="817" width="386" height="429" frameX="-5" frameY="0" frameWidth="392" frameHeight="429"/>
+	<SubTexture name="BBF UP miss0001" x="778" y="817" width="386" height="429" frameX="-5" frameY="0" frameWidth="392" frameHeight="429"/>
+	<SubTexture name="BBF UP miss0002" x="1164" y="817" width="392" height="416" frameX="0" frameY="-6" frameWidth="392" frameHeight="429"/>
+	<SubTexture name="BBF UP miss0003" x="1164" y="817" width="392" height="416" frameX="0" frameY="-6" frameWidth="392" frameHeight="429"/>
+</TextureAtlas>
